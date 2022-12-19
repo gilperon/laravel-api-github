@@ -35,6 +35,8 @@ E clicar sobre Gerar um token de acesso para receber sua chave JWT
 <img src='https://i.imgur.com/6VwIR8t.jpg' width="400">
  <br>
 Com ela voce pode fazer requisições REST para a API. <br>
+<img src='https://i.imgur.com/qWqyGk8.png' width="400"><br>
+
 
 Obs:
 Eu fiz meu próprio código JWT, ele está em Helpers/Functions e Helpers/MeuToken 
