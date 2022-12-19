@@ -23,8 +23,7 @@
 7) Rode o servidor<br>
    php artisan serve
 
-8) Acesse em seu navegador seu diretorio localhost para ter acesso a Criar, Listar, Deletar e Buscar clientes
-   localhost/api-laravel-github/public/
+8) Acesse em seu navegador seu diretorio localhost para ter acesso ao sistema:  localhost/api-laravel-github/public/
 
 Voce deve ver uma página para criar sua conta, igual imagem abaixo, e após criar a conta, você deve deslogar.<br>
 E clicar sobre Gerar um token de acesso para receber sua chave JWT
