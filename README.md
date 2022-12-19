@@ -12,13 +12,11 @@
 4) Copie o arquivo .env.example para .env ou simplesmente renomeie ele<br>
    Se estiver no linux digite isso no terminal: cp .env.example .env <br>
    Se estiver no windows digite isso no terminal: copy .env.example .env<br>
-   Lembrar de definir a conexão ao banco de dados nesse arquivo .env com o respectivo nome do banco de dados que voce deve criar
-    DB_CONNECTION=mysql
-    DB_HOST=127.0.0.1
-    DB_PORT=3306
-    DB_DATABASE=laravel_api
-    DB_USERNAME=root
-    DB_PASSWORD=
+   Lembrar de definir a conexão ao banco de dados nesse arquivo .env com o respectivo nome do banco de dados que voce deve criar<br>
+    DB_CONNECTION=mysql<br>
+    DB_HOST=127.0.0.1<br>
+    DB_PORT=3306<br>
+    DB_DATABASE=laravel_api<br>
 
 5) Execute o comando abaixo, para criar uma chave para a aplicação<br>
    php artisan key:generate
