@@ -1,10 +1,10 @@
 <h1>Tutorial para rodar o código parar gerar o JWT e acessar a API</h1>
 
 1) Clonar esse repositorio:<br>
-   git clone https://github.com/gilperon/api-laravel-github.git
+   git clone https://github.com/gilperon/laravel-api-github.git
    
 2) Vá para a pasta do diretorio<br>
-   cd api-laravel-github
+   cd laravel-api-github
    
 3) Instale as dependencidas com o composer <br>
    composer install
@@ -23,7 +23,7 @@
 7) Rode o servidor<br>
    php artisan serve
 
-8) Acesse em seu navegador seu diretorio localhost para ter acesso ao sistema:  localhost/api-laravel-github/public/
+8) Acesse em seu navegador seu diretorio localhost para ter acesso ao sistema:  localhost/laravel-api-github/public/
 
 Voce deve ver uma página para criar sua conta, igual imagem abaixo, e após criar a conta, você deve deslogar.<br>
 E clicar sobre Gerar um token de acesso para receber sua chave JWT
