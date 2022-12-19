@@ -4,7 +4,7 @@
    git clone https://github.com/gilperon/api-laravel-github.git
    
 2) Vá para a pasta do diretorio<br>
-   cd api-laravel
+   cd api-laravel-github
    
 3) Instale as dependencidas com o composer <br>
    composer install
